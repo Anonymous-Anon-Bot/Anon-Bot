@@ -81,14 +81,14 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
   
-## Developers
-  <div align="center">
-    
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![Monuzz-Mkz](https://github.com/Monuzz-Mkz.png?size=100)](https://github.com/Monuzz-Mkz) 
-----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [Monuzz-Mkz](https://github.com/Monuzz-Mkz)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
-  </div>
+##
+  <h3 align="center">📢 Support Group 1:</h3>
+<p align="center">
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  <a href="https://chat.whatsapp.com/CgWt3VG4FMtAhPPJiRAivW" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+</p>
 
 
 ## License
