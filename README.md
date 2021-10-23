@@ -11,7 +11,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Monuzz-Mkz">Monuzz-Mkz</a> to make it public
+Project created by <a href="https://github.com/Monuzz-Mkz">Anandh</a> to make it public
     <br>
        | © |
         Reserved |
