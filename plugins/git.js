@@ -11,23 +11,25 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "http://imgur.com/gallery/SId8gGy";
+  r_text[0] = "https://i.imgur.com/JDAq7br.jpeg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Amal*
-*To check update .update   To update Bot .update now*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Creater Anandh *
 
-*Bot making video : https://youtu.be/fd0KPblop-k*
 
-*Yt_PASSWORD: _________(password on this video watch it full)*
+*Pinky Bot making video : coming soon😊*
 
-*githublink : https://github.com/cyberchekuthan/Amalser_v2*
+*Pinky githublink : https://github.com/Monuzz-Mkz/Pinky*
 
-*audio commads : https://github.com/cyberchekuthan/Amalser_v2/tree/master/uploads*
+*Aswathy githublink : https://github.com/Monuzz-Mkz/aswathyy*
+
+*Aswathy Bot making video : https://youtu.be/7Q01xo8jJw4*
+
+*Bot Grp: https://chat.whatsapp.com/Ktg2pOcryOD8T7FmKjauXy*
 `}) 
 
 }));
