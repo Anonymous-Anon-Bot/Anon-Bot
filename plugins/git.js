@@ -31,7 +31,6 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 *Aswathy githublink : https://github.com/Monuzz-Mkz/aswathyy*
 
 *Aswathy Bot making video : https://youtu.be/7Q01xo8jJw4*
-
 `}) 
 
 }));
