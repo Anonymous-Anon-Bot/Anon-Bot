@@ -29,7 +29,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 *Aswathy Bot making video : https://youtu.be/7Q01xo8jJw4*
 
-*Bot Grp: https://chat.whatsapp.com/Ktg2pOcryOD8T7FmKjauXy*
+*Public Bot Grp: https://chat.whatsapp.com/Ktg2pOcryOD8T7FmKjauXy*
+
+*Bot Supporting Grp: https://chat.whatsapp.com/Ktg2pOcryOD8T7FmKjauXy*
 `}) 
 
 }));
