@@ -20,6 +20,10 @@ Project created by <a href="https://github.com/Monuzz-Mkz">Anandh</a> to make it
 
 ----
 
+<h3 align="center">Follow Me in Instagram:</h3>
+<p align="center">
+<a href="https://instagram.com/kl_35_pala_karannn?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+</p>
 
 ```
   
