@@ -1,5 +1,5 @@
 ## Thanks for Everything 
-### We will always remember you..
+### We will always remember you...
 
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="200" height="200"/>
