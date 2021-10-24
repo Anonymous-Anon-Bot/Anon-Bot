@@ -20,15 +20,6 @@ Project created by <a href="https://github.com/Monuzz-Mkz">Anandh</a> to make it
 
 ----
 
-  <p align="center">
-  <a href="https://github.com/Monuzz-Mkz/pinkymwol ">
-    <img src="https://img.shields.io/github/repo-size/Monuzz-Mkz/lastpink?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/Monuzz-Mkz/followers"><img title="Followers" src="https://img.shields.io/github/followers/Monuzz-Mkz?color=red&style=flat-circle"></a>
-<a href="https://github.com/Monuzz-Mkz/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Monuzz-Mkz/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/Monuzz-Mkz/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Monuzz-Mkz/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/Monuzz-Mkz/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Monuzz-Mkz/lastpink?label=Watchers&color=red&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
   
