@@ -55,7 +55,7 @@ the user is responsible.
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Monuzz-Mkz/Pinky) 
   
-[![Run on Repl.it](https://replit.com/@afnanplk/PinkyMwol-QR)](https://replit.com/@afnanplk/PinkyMwol-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
   
 
 
