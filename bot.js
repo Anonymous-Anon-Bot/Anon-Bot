@@ -68,8 +68,6 @@ async function whatsAsena () {
     
     
     const conn = new WAConnection();
-    const res = await axios('https://lyfe00011.herokuapp.com/web')
-    conn.version = res.data.version	
     const Session = new StringSession();
 
     conn.logger.level = config.DEBUG ? 'debug' : 'warn';
@@ -134,7 +132,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('𝚙𝚒𝚗𝚔𝚢 (by anandh) 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 ' + config.WORKTYPE + ' 𝚗𝚘𝚠 👻'));
+            chalk.green.bold('𝚙𝚒𝚗𝚔𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 ' + config.WORKTYPE + ' 𝚗𝚘𝚠 👻'));
             await conn.sendMessage(conn.user.jid, "ᴘɪɴᴋʏ ɪꜱ ᴀʟʟ ꜱᴇᴛ", MessageType.text);
             await conn.sendMessage(conn.user.jid, "``` WORKING " + config.WORKTYPE + "```" , MessageType.text);
     });
