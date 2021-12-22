@@ -132,9 +132,9 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('𝚙𝚒𝚗𝚔𝚢 by Anandh' + config.WORKTYPE + ' 𝚗𝚘𝚠 👻'));
+            chalk.green.bold('Anonymous Bot ' + config.WORKTYPE + 'Starting Sucessfull✅'));
             await conn.sendMessage(conn.user.jid, "ᴘɪɴᴋʏ ɪꜱ ᴀʟʟ ꜱᴇᴛ", MessageType.text);
-            await conn.sendMessage(conn.user.jid, "``` WORKING " + config.WORKTYPE + "```" , MessageType.text);
+            await conn.sendMessage(conn.user.jid, "*Anonymous Bot Started* Anonymous Bot is Working " + config.WORKTYPE + " ✅" , MessageType.text);
     });
     
     conn.on('chat-update', async m => {
