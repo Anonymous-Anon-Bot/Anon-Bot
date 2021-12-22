@@ -17,16 +17,7 @@ Project created by <a href="https://github.com/Monuzz-Mkz">Anandh</a> to make it
         Reserved |
     <br> 
 </p>
-
-----
-
-<h3 align="center">Follow Me in Instagram:</h3>
-<p align="center">
-<a href="https://instagram.com/kl_35_pala_karannn?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
-</p>
-
-```
-  
+<div align="center">
 This Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
@@ -40,8 +31,6 @@ is not responsible for the usage purpose and method of the users.
 Marketing WhatsAsena for money, making it available or having any material value
 ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
 the user is responsible.
-```
-
 
 ## Setup
 <div align="center">
