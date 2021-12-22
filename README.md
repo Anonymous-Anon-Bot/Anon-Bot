@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/WuDD2gP.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/91-99615-15992-20211218_215924_1.jpg" width="200" height="200"/>
 </div>
 <p align="center">
 Project created by <a href="https://github.com/Anonymous-Anon-Bot">Anonymous</a> to make it public
