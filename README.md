@@ -1,17 +1,11 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+MODED+Pinky+WA+Bot+repo;Created+by+Anandh;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Anonymous+Whatsapp+Bot+repo;Created+by+Anonymous;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
 
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/WuDD2gP.jpeg" width="200" height="200"/>
-  <p align="center">
-<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/Monuzz-Mkz-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-  <p align="center">
-<a href="https://wa.me/918848120533"><img title="join support" src="https://img.shields.io/badge/join_support-Monuzz-Mkz/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
-</p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Monuzz-Mkz">Anonymous</a> to make it public
+Project created by <a href="https://github.com/Anonymous-Anon-Bot">Anonymous</a> to make it public
     <br>
        | © |
         Reserved |
