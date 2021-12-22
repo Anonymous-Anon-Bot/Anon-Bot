@@ -65,14 +65,3 @@ This is an open source project, you are responsible for everything you do.
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
-  
-##
-  <h3 align="center">📢 Support Group 1:</h3>
-<p align="center">
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  <a href="https://chat.whatsapp.com/CgWt3VG4FMtAhPPJiRAivW" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
-</p>
-
-
