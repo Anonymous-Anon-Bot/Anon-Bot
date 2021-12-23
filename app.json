@@ -123,7 +123,6 @@
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
             "required": true
-            "value": "3d138890-62c1-45e8-a87c-34d116254a5d"
         },
         "MUTE_MESSAGE": {
             "description": "Düzenlenebilir Mute Mesajı. Customizable Mute Message! Use => default, to change back.",
