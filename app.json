@@ -19,7 +19,7 @@
         "LANGUAGE": {
             "description": "only en & ml language is available",
             "required": true,
-            "value": "ml"
+            "value": "en"
         },
         "WEL_GIF": {
             "description": "Fill here any gif link if you selected gif as WEELCOME",
