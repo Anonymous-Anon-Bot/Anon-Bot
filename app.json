@@ -11,7 +11,6 @@
         "PINKY_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
-            "value: "Pinky___eyJjbGllbnRJRCI6IlpZd21tcVo0VzhMcXU1NzRGNVkzamc9PSIsInNlcnZlclRva2VuIjoiMUBCVGJmNjVudE9KVXJ5a25zMUxlMlFSMUg3ZndoM1lPK2JGcElSdEUxWlY5bkZVRmtwMzRSTEpKbmZSZjZJOEFuc3ZSaGVISGNxUURQYmc9PSIsImNsaWVudFRva2VuIjoiUWhYa2duMzBOdzBxTWNndXBVeXVxelhSZ2tRcm13eWUzNFV4OVptU0R6dz0iLCJlbmNLZXkiOiJIRHdnMmQ2WFZKQWVGNTBVbEF0U2xRYlgwSy9CWlVzUzB5TnZTQjVnTTVBPSIsIm1hY0tleSI6InBiYWE2UThDaFNncXdaYU5ZejI5WDJEV3RUS0h6bS9hVzlCTkp3UDhhbEE9In0="
         },
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
@@ -114,7 +113,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━╼⤏PINKY BOT⤎╾━━━•"
+            "value": "•━━━╼⤏Anonymous Bot⤎╾━━━•"
         },      
         "TALKING_PINKY": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
