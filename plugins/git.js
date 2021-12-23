@@ -18,18 +18,8 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Creater Anandh*
-
-
-*Pinky Bot making video : coming soon😊*
-
-*Pinky githublink : https://github.com/Monuzz-Mkz/Pinky*
-
-*Aswathy Bot making video : https://youtu.be/7Q01xo8jJw4*
-
-*Public Bot Grp: https://chat.whatsapp.com/Ktg2pOcryOD8T7FmKjauXy*
-
-*Bot Supporting Grp: https://chat.whatsapp.com/Ktg2pOcryOD8T7FmKjauXy*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bot Creater Anonymous*
+*Anonymous Bot Creater Whatsapp:https://wa.me/919961515992 ✅*
 `}) 
 
 }));
