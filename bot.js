@@ -1,8 +1,3 @@
-/* Copyright (C) 2020 Yusuf Usta.
-RECODDED BY AFNANPPLK
-Plk  
-*/
-
 const os = require("os");
 const fs = require("fs");
 const path = require("path");
@@ -132,10 +127,10 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Anonymous Bot ' + config.WORKTYPE + 'Starting Sucessfull✅'));
-            await conn.sendMessage(conn.user.jid, "ᴘɪɴᴋʏ ɪꜱ ᴀʟʟ ꜱᴇᴛ", MessageType.text);
-            await conn.sendMessage(conn.user.jid, "*Anonymous Bot Started* Anonymous Bot is Working " + config.WORKTYPE + " ✅" , MessageType.text);
-    });
+            chalk.green.bold('Anonymous Bot ' + config.WORKTYPE + ' Starting Sucessfull✅'));
+            await conn.sendMessage(conn.user.jid, "ᴀɴᴏɴ-ʙᴏᴛ ɪꜱ ᴀʟʟ ꜱᴇᴛ", MessageType.text);
+            await conn.sendMessage(conn.user.jid, "ᴀɴᴏɴʏᴍᴏᴜꜱ ʙᴏᴛ ᴡᴏʀᴋɪɴɢ ɪꜱ " + config.WORKTYPE + " ✅" , MessageType.text);
+
     
     conn.on('chat-update', async m => {
         if (!m.hasNewMessage) return;
@@ -275,7 +270,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '__PINKYBOT_☠☠_[error] ' +
+                                await conn.sendMessage(conn.user.jid, '__Anon-BOT_☠☠_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
